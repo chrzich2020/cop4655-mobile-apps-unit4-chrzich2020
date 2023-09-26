@@ -33,9 +33,9 @@ extension Task {
             Task(title: "Find Spongebob's Pineapple House",
                  description: "Stop by the Krusty Krab after to grab a delicious Krabby Patty!"),
             Task(title: "Find May's Dolphin",
-                 description: "She won't be able to win against Ramlethal "),
-            Task(title: "Find",
-                 description: "")
+                 description: "She won't be able to win against Ramlethal without her trusty dolphin friend!"),
+            Task(title: "Find Bocchi's Guitar",
+                 description: "The concert is coming up and Bocchi can't play without her guitar!")
         ]
     }
 }
